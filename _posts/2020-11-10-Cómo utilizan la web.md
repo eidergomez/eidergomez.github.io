@@ -16,11 +16,18 @@ date: 2020-11-10
 PAra que los usuarios se queden en la web es improtante que lo que publique tenga credibilidad esto aumenta con gráficos, buena escritura, hipertextos, etc. 
 
 Ejemplo de cómo disponer la misma situación:
-1. Bloque de forma proporcional-- 0% de usabilidad
-2. Menos detalle y en el párrafo solo nombre clave --> 58%
-3. Diseño escaneable --> 47%
-4. Lenguaje objetivo en párrafo sin que sea el primer ejemplo --> 27%
-5. Concisa, escaneable y objetivo --> 124%
+-----------------------------------------------
+Bloque de forma proporcional  | 0% de usabilidad
+-----------------------------  ------------------
+Menos detalle y en el párrafo | 58% de usabilidad
+solo nombre clave             |
+-----------------------------  ------------------
+Diseño escaneable             | 47% de usabilidad
+------------------------------ ------------------
+Lenguaje objetivo en párrafo  | 27% de usabilidad
+sin que sea el primer ejemplo |
+-----------------------------  ------------------
+Concisa, escaneable y objetivo| 124% de usabilidad
 
 *Conclusiones* 
 Hay que ser conciso claro y utilizar listas, no proporcionar en la web contar con objetividad lo que queramos contar. 

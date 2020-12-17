@@ -26,6 +26,9 @@ Estos son los pasos a dar:
 
 Existen enfoques distintos:
 
-- *Enfoque cascada*: las fases del proyecto separadas y distintas. Después de cada fase hay que aprobarla para pasar a la siguiente.
-- *Agile approaches*: es más flexivle la anterior, no hay que seguir de forma tan ordenada los pasos y la aprobación va al final. 
-- *Enfoques modificados*: mexcla os anteriores enfoques, pero para hacerlo tiene que tener suficiente estructura y documentación.
+            *Enfoque cascada              |            *Agile aproaches*             |           *Enfoques modificados*
+--------------------------------------------  ----------------------------------------- ----------------------------------------
+Las fases del proyecto separadas y distintas.| es más flexivle la anterior, no hay que | Mezcla os anteriores enfoques, pero
+Después de cada fase hay que aprobarla para  | seguir de forma tan ordenada los pasos  | para hacerlo tiene que tener suficiente 
+pasar a la siguiente.                        | y la aprobación va al final.            | estructura y documentación.
+
