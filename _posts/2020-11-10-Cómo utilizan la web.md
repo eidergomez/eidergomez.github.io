@@ -13,20 +13,20 @@ date: 2020-11-10
     - Una idea por párrafo
     - Los textos comprimirlos, incluso la mitad de lo que sería el tamaño normal. 
 
-PAra que los usuarios se queden en la web es improtante que lo que publique tenga credibilidad esto aumenta con gráficos, buena escritura, hipertextos, etc. 
+Para que los usuarios se queden en la web es improtante que lo que publique tenga credibilidad esto aumenta con gráficos, buena escritura, hipertextos, etc. 
 
 Ejemplo de cómo disponer la misma situación:
 -----------------------------------------------
-Bloque de forma proporcional  | 0% de usabilidad
------------------------------  ------------------
-Menos detalle y en el párrafo | 58% de usabilidad
-solo nombre clave             |
------------------------------  ------------------
-Diseño escaneable             | 47% de usabilidad
+Bloque de forma proporcional | 0% de usabilidad
 ------------------------------ ------------------
-Lenguaje objetivo en párrafo  | 27% de usabilidad
+Menos detalle y en el párrafo | 58% de usabilidad
+solo nombre clave |
+----------------------------- ------------------
+Diseño escaneable | 47% de usabilidad
+------------------------------ ------------------
+Lenguaje objetivo en párrafo | 27% de usabilidad
 sin que sea el primer ejemplo |
------------------------------  ------------------
+----------------------------- ------------------
 Concisa, escaneable y objetivo| 124% de usabilidad
 
 *Conclusiones* 
