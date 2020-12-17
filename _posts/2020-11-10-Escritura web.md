@@ -22,5 +22,5 @@ El resultado ayudará a los lectores a determinar su nivel de interés en su art
     1. Fuente en negrita.
     2. Oraciones temáticas.
     3. Listas con viñetas. 
--**Interes detallado**: estos textos contienen más información son más detallados, para un público que quiere tener más información.
+- **Interes detallado**: estos textos contienen más información son más detallados, para un público que quiere tener más información.
 - **Ser de más información**: gente que termina tu artículo y se queda con ganas de más y que sigue buscando información en otros sitios.
