@@ -18,10 +18,8 @@ Para que los usuarios se queden en la web es improtante que lo que publique teng
 Ejemplo de cómo disponer la misma situación: 
 
 | Bloque de forma proporcional | Menos detalle y en el párrafo | Diseño escaneable | Lenguaje objetivo en párrafo | Concisa |
-| ---------------------------- |  ---------------------------- | ----------------- | ---------------------------- |-------- |
+| -------- | ------------- | ----------- | ------------- | ---------- |
 | 0% de usabilidad | 58% de usabilidad solo nombre clave | 47% de usabilidad | 27% de usabilidad | 124% usabilidad |
-
 
 *Conclusiones* 
 Hay que ser conciso claro y utilizar listas, no proporcionar en la web contar con objetividad lo que queramos contar. 
-
