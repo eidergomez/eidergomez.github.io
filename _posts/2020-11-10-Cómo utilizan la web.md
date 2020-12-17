@@ -15,17 +15,13 @@ date: 2020-11-10
 
 Para que los usuarios se queden en la web es improtante que lo que publique tenga credibilidad esto aumenta con gráficos, buena escritura, hipertextos, etc. 
 
-Ejemplo de cómo disponer la misma situación:
-| --------------------------------------------------------------------------------------------------------------------------|
+Ejemplo de cómo disponer la misma situación: 
+
 | Bloque de forma proporcional | Menos detalle y en el párrafo | Diseño escaneable | Lenguaje objetivo en párrafo | Concisa |
 | ---------------------------- |  ---------------------------- | ----------------- | ---------------------------- |-------- |
 | 0% de usabilidad | 58% de usabilidad solo nombre clave | 47% de usabilidad | 27% de usabilidad | 124% usabilidad |
-| -----------------| ------------------------------------| ----------------- | ----------------- | --------------- |
+
 
 *Conclusiones* 
 Hay que ser conciso claro y utilizar listas, no proporcionar en la web contar con objetividad lo que queramos contar. 
 
-
-| Bloque deforma proporcional | Menos detalla en el párrafo | Diseño escaneable | Lenguaje objetivo | Conciso y estable |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-|  0% de usabilidad | 58% de usabilidad solo | 47% de usabilidad | 27% de usabilidad | 124% usabilidad |
