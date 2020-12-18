@@ -24,6 +24,7 @@ date: 2020-11-24
 - Diferencia etre debería y deberá: siempre es mejor utilizar deberá.
 
 **QUIÉN UTILIZA WIREFRAMES** 
+
 Cada proyecto puede ser de diferente audiencia tanto individual como de grupo según el proyecto.
 Ejemplos: project management, visual designers, content creators...
 
@@ -34,6 +35,7 @@ Ejemplos: project management, visual designers, content creators...
 Además de todo eso es importante saber que es lo que necesita el cliente, más específicamente: qué conexiones quiere en la página. Se deben conocer las limitaciones tecnológicas.
 
 **Herramientas para empezar** 
+
 Se necesitan herramientas que ayuden a empezar a crear tu mapa del sitio.
 
 **Empezar de manera simple** 
