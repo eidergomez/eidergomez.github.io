@@ -3,6 +3,7 @@ title: "UX design"
 date: 2020-11-24
 ---
 **Diseña un proyecto en UX**
+
 Lo primero que debemos hacer es fortalecer los objetivos y cómo nos acercamos a ellos. Hay que tener claro los objetivos principales (los referidos a la estratefia empresarial). Tienen que ser **fáciles de entender, distintos y medibles** para que puedan convertirse de objetivo difuso a objetivo sólido.
 
 Para hacer esto hay que identificar:
@@ -11,6 +12,8 @@ Para hacer esto hay que identificar:
 - Comparar los competidores
 
 Con esto los objetivos serán más fáciles de enteder y definir teniendo esto en cuenta.
+
+![uxdis](/imagenes/uxdis.png)  
 
 **Comprender el enfoque del proyecto**
 
