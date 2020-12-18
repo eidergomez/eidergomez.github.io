@@ -6,7 +6,7 @@ date: 2020-11-10
 **¿Cómo escribir en la web?**
 
 Distinción entre tres clases de personas: con poco interés, algo de interés y mucho interés.
-- Por estas funciones de interés hay que utilizar el mítico nivel de pirámide invertida para escribir las noticias.
+- Por estas funciones de interés hay que utilizar el mítico **nivel de pirámide invertida** para escribir las noticias.
 - **Solo título**: el título de la página es la primera información que e da al usuario. LA web a menudo se basa en el título como la única información que se utiliza para invitar al lector a la página. Los títulos que contienen la idea básica de la página pueden proporcionar a algunos usuarios toda la información que necesitan.
 - **Resumen de una oración**: el propósito principal del resumen de una oración son los enlaces a esta página. Es la última línea de defensa contra los lectores sin interés en su página. 
 Proporcionar esta descripción de una oración al comienzo del artículo:
@@ -24,3 +24,5 @@ El resultado ayudará a los lectores a determinar su nivel de interés en su art
     3. Listas con viñetas. 
 - **Interes detallado**: estos textos contienen más información son más detallados, para un público que quiere tener más información.
 - **Ser de más información**: gente que termina tu artículo y se queda con ganas de más y que sigue buscando información en otros sitios.
+
+

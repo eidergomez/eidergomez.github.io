@@ -23,3 +23,5 @@ Ejemplo de cómo disponer la misma situación:
 
 *Conclusiones* 
 Hay que ser conciso claro y utilizar listas, no proporcionar en la web contar con objetividad lo que queramos contar. 
+
+![lectura](/imagenes/lectura.jpg) 
